@@ -124,7 +124,7 @@ public:
 		void show_student()
 	{
 		cout<<"\nAdmission no. : "<<admno;
-		cout<<"\nStudent’s Name: ";
+		cout<<"\nStudentâ€™s Name: ";
 		puts(name);
 		cout<<"\n Membership Type \n";
 		gets(mem);
@@ -588,8 +588,7 @@ if(strcmpi(pas,p)==0)
 	cout<<"MANAGEMENT";
 	gotoxy(35,8);
 	cout<<"SYSTEM";
-	cout<<"\n\nMADE BY : Hitanshu Paruthi & NV Aditya, Class XII-B";
-	cout<<"\n\nSCHOOL : Amity International Sachool, PV";
+	cout<<"\n\nMADE BY : Hitanshu Paruthi";
 	}
 	else
 {
